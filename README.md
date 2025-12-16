@@ -1,4 +1,4 @@
-![Project Context Banner](../docs/banner.png)
+![Project Context Banner](docs/banner.png)
 
 # 🌌 Project Context & Teleport System
 
@@ -16,7 +16,7 @@
 
 O fluxo de dados foi desenhado para ser unidirecional e à prova de falhas:
 
-![Architecture Pipeline](../docs/pipeline.png)
+![Architecture Pipeline](docs/pipeline.png)
 
 1. **Ingestão**: O `Gerador` escaneia o código fonte e documentação.
 2. **Compressão Lógica**: Arquivos são filtrados e ordenados por relevância (PDR).
