@@ -1,3 +1,5 @@
+![Project Context Banner](../docs/banner.png)
+
 # 🌌 Project Context & Teleport System
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -7,6 +9,19 @@
 
 1. **Memória Infinita**: Gera um contexto otimizado (PDR - Priority Document Ranking) do seu projeto para que a IA entenda todo o código sem alucinações.
 2. **Teletransporte de Projetos**: Permite empacotar um projeto inteiro em um único arquivo de texto (`.txt`) e reconstruí-lo em qualquer outro ambiente (Docker, Nuvem, Outra Máquina) sem precisar configurar Git, chaves SSH ou dependências complexas.
+
+---
+
+## 🧠 Arquitetura do Pipeline
+
+O fluxo de dados foi desenhado para ser unidirecional e à prova de falhas:
+
+![Architecture Pipeline](../docs/pipeline.png)
+
+1. **Ingestão**: O `Gerador` escaneia o código fonte e documentação.
+2. **Compressão Lógica**: Arquivos são filtrados e ordenados por relevância (PDR).
+3. **Transporte**: Tudo vira um único ativo digital (`.txt`).
+4. **Materialização**: O `Construtor` reconstrói a estrutura física no destino.
 
 ---
 
