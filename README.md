@@ -91,7 +91,7 @@ A única dependência é **Python 3**. Nenhuma biblioteca externa (`pip install`
 
 ```bash
 # Clone este repositório de ferramentas na raiz do seu projeto ou em uma subpasta
-git clone https://github.com/SeuUsuario/project-context.git
+git clone https://github.com/Araken13/PROJECT-CONTEXT.git
 ```
 
 ---
