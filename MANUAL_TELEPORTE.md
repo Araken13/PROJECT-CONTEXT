@@ -71,4 +71,4 @@ python scripts/construtor_projeto.py MEU_ARQUIVO_DE_CONTEXTO.txt
 ```
 
 ---
-*Gerado por Antigravity Agent - 2025*
+Araken Carmo Neto - Dev Full Stack :  Desenvolvido e Gerado com Antigravity Agent - 2025*
